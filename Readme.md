@@ -37,6 +37,9 @@ Non-functional :
 - Go through this document thoroughly for creating good REST APIs -
   - REST API guidelines [https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md]
 
+- GO Basic course
+  - [https://www.udemy.com/course/go-the-complete-developers-guide/]
+
 - Testing GO applications
   - Go create test applications [https://app.pluralsight.com/library/courses/go-create-test-applications/table-of-contents]
 
